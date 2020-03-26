@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTP-Code", "LTP-Code\LTP-Code.csproj", "{62DE0444-1C7A-4772-8AB5-43CC773928FD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LTP Editor", "LTP Editor\LTP Editor.vdproj", "{17BCAA38-6633-468F-8436-41B277CB57FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62DE0444-1C7A-4772-8AB5-43CC773928FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DE0444-1C7A-4772-8AB5-43CC773928FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DE0444-1C7A-4772-8AB5-43CC773928FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DE0444-1C7A-4772-8AB5-43CC773928FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17BCAA38-6633-468F-8436-41B277CB57FB}.Debug|Any CPU.ActiveCfg = Debug
+		{17BCAA38-6633-468F-8436-41B277CB57FB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73F69FB8-D755-4B58-8E4D-CAC1C44A6019}
+	EndGlobalSection
+EndGlobal
